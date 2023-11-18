@@ -5,15 +5,21 @@
 
 # open terminal 1
 1) cd into server folder
+   
     -> cd server
 
-2)  run
+3)  run
+   
     -> npm install
+    
     -> node app.js
 
 # open terminal 2:
+
 1) run
+   
    -> npm install
+   
    -> npm start
 
 # The app will launch in localhost:3000
